@@ -34,4 +34,3 @@ class FIFOCache(BaseCaching):
         """
         value = self.cache_data.get(key)
         return value
-
