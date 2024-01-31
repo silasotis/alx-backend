@@ -1,4 +1,5 @@
-U Caching
+#!/usr/bin/python3
+""" 4. MRU Caching
 """
 from datetime import datetime
 from collections import defaultdict
